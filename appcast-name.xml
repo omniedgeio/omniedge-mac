@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Omniedge</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sun, 14 Mar 2021 20:09:13 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/omniedgeio/omniedge-mac/master/Omniedge.dmg" sparkle:version="0.1.0" sparkle:shortVersionString="0.1.0" length="6214506" type="application/octet-stream" sparkle:edSignature="aXgoMNnldXLhlrAWeMCK9O4Qshz4/zdLlf0l1/SWjK0F7b/uk/p+y0UYpsI6hYtPACrahvV+WLHS2fwygy5HAg=="/>
+        </item>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Thu, 18 Mar 2021 23:35:18 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/omniedgeio/omniedge-mac/master/Omniedge.dmg" sparkle:version="0.1.1" sparkle:shortVersionString="0.1.1" length="6637811" type="application/octet-stream" sparkle:edSignature="7QkLOhyztzGpDjKPbMBf4EFd7xRRMMKHSRgUKLnsB7LEpTFBmyqOfDA1l5VTh0IYdYy1OkSXE4AcRLxcTqDVBg=="/>
+        </item>
+        <item>
+            <title>0.1.2</title>
+            <pubDate>Sun, 21 Mar 2021 17:44:55 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/omniedgeio/omniedge-mac/master/Omniedge.dmg" sparkle:version="0.1.2" sparkle:shortVersionString="0.1.2" length="6637852" type="application/octet-stream" sparkle:edSignature="wrh2wWGye/M8XAKwW312+DbAK6EVIMjJ/rN05CLcD1ftsOVuy/Kui2phf4TwBpicmF/Q8z1hb6xAcSYGZlhMBQ=="/>
+        </item>
+        <item>
+            <title>0.1.3</title>
+            <pubDate>Mon, 22 Mar 2021 21:17:44 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/omniedgeio/omniedge-mac/master/Omniedge.dmg" sparkle:version="0.1.3" sparkle:shortVersionString="0.1.3" length="6637816" type="application/octet-stream" sparkle:edSignature="UQnfiNqNBdbrTmwKeeAvn+IReeT6q8Q7srUXwpyMqRKwDEVUo6wJIOVQTsn+7KKsDVsYzjWmgmF9fj02ifFWCg=="/>
+        </item>
+        <item>
+            <title>0.1.4</title>
+            <pubDate>Mon, 22 Mar 2021 23:31:34 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/omniedgeio/omniedge-mac/master/Omniedge.dmg" sparkle:version="0.1.4" sparkle:shortVersionString="0.1.4" length="6637822" type="application/octet-stream" sparkle:edSignature="hAOEBJpIzIJ4mzkJSXExaYvQQddvwIRgmScVghaSjCog2wa0Tcg/Zu+W9mF3vNF8yfkVViJJbJdgHTZfbqnqBw=="/>
+        </item>
+        <item>
+            <title>0.1.5</title>
+            <pubDate>Mon, 22 Mar 2021 23:59:18 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/omniedgeio/omniedge-mac/master/Omniedge.dmg" sparkle:version="0.1.5" sparkle:shortVersionString="0.1.5" length="6637887" type="application/octet-stream" sparkle:edSignature="2rk7p4PAc4JCDT+lXLvSk0hP/H1S83R96m3X2Cv7O7OK7mI5ef9tJZXsRyMEgiubiPPslPxi8gV80hOcF550AA=="/>
+        </item>
+        <item>
+            <title>0.1.6</title>
+            <pubDate>Thu, 25 Mar 2021 22:07:44 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/omniedgeio/omniedge-mac/master/Omniedge.dmg" sparkle:version="0.1.6" sparkle:shortVersionString="0.1.6" length="6639079" type="application/octet-stream" sparkle:edSignature="otxRUkQ2vaS3n4fdb1ZWloCxWEcsfQiOK8Wj4EuwmXyiBNc+irxH/lvcSwX60iSdUsIhDoyOdnWWidQsNhOSBQ=="/>
+        </item>
+        <item>
+            <title>0.1.7</title>
+            <pubDate>Fri, 26 Mar 2021 23:32:14 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/omniedgeio/omniedge-mac/master/Omniedge.dmg" sparkle:version="0.1.7" sparkle:shortVersionString="0.1.7" length="6974348" type="application/octet-stream" sparkle:edSignature="i3I7u2q3XkVr8lbliFALDdWpu5tNDH2XwHisBVpDk9RcQbbluKVUybJmhbi4Iiobqqk/mxlnrbFNH6NnhnBNAQ=="/>
+        </item>
+        <item>
+            <title>0.1.8</title>
+            <pubDate>Sat, 03 Apr 2021 10:10:25 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/omniedgeio/omniedge-mac/master/Omniedge.dmg" sparkle:version="0.1.8" sparkle:shortVersionString="0.1.8" length="6974241" type="application/octet-stream" sparkle:edSignature="jxtfCVius7z8/VOpyBuNFxBVe/jg1bZl2jQl84iqONYp/PqwYmFNnwmqLuo6fYp43crBhnBWH2RbLxpmHr5uAg=="/>
+        </item>
+    </channel>
+</rss>
